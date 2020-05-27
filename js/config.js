@@ -4,6 +4,8 @@ var respecConfig = {
     subtitle: "Digikoppeling Koppelvlakstandaard ebMS2",
     license: "cc-by",
     splitMDsections: true,
+    pubDomain: "Digikoppeling",
+    subExplanation: "",
     edDraftURI: "https://gitlab.com/logius/oidc/-/blob/master/NLGov-OpenIDConnect-profile.md",
     otherLinks: [{
         key: "Participate",
