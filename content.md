@@ -1,4 +1,3 @@
-- Requirement Item 4.1.8 (‘Z’ identifier) verwijderd
 # Inleiding
 
 ## Doel en doelgroep
