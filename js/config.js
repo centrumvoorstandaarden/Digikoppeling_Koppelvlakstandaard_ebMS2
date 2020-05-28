@@ -24,34 +24,27 @@ var respecConfig = {
         }]
     }],
     editors: [{
-        name: "Remco Schaar",
-        company: "Logius",
-        url: "https://www.logius.nl",
-    },{
-        name: "Frank van Es",
-        company: "Logius",
-        url: "https://www.logius.nl",
-    },{
         name: "Pieter Hering",
         company: "Logius/Centrum voor Standaarden",
         url: "https://www.logius.nl",
-    }],
+    }, {
+        name: "Peter Haasnoot",
+        company: "Logius/Centrum voor Standaarden",
+        url: "https://www.logius.nl",
+    }, {
+        name: "Maarten van der Veen",
+        company: "Logius/Centrum voor Standaarden",
+        url: "https://www.logius.nl",
+       }
+    ],
     authors: [{
-        name: "Remco Schaar",
-        company: "Logius",
+        name: "Pieter Hering",
+        company: "Logius/Centrum voor Standaarden",
         url: "https://www.logius.nl",
-    },{
-        name: "Frank van Es",
-        company: "Logius",
+    }, {
+        name: "Peter Haasnoot",
+        company: "Logius/Centrum voor Standaarden",
         url: "https://www.logius.nl",
-    },{
-        name: "Joris Joosten",
-        company: "VZVZ",
-        url: "https://www.vzvz.nl",
-    },{
-        name: "Jan Geert Koops",
-        company: "Dictu",
-        url: "https://www.dictu.nl",
     }],
     mdn: true,
     localBiblio: {
