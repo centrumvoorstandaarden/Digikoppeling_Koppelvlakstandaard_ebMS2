@@ -5,7 +5,7 @@ var respecConfig = {
     license: "cc-by",
     splitMDsections: true,
     pubDomain: "Digikoppeling",
-    subExplanation: "",
+    subExplanation: "Het document is bestemd voor architecten en ontwikkelaars die op basis van ebMS gegeven willen uitwisselen via Digikoppeling. Zie onderstaande tabel bij welke taken dit document ondersteunt. Alle Digikoppeling webservices die op ebMS gebaseerd zijn, moeten conformeren aan de koppelvlakstandaard ebMS2. Deze wordt tot in detail in dit document gespecificeerd. Het doel van dit document is ontwikkelaars te informeren wat deze koppelvlakstandaard nu precies inhoudt en waar zij zich aan moeten conformeren. Het gaat hierbij om zowel service aanbieders als service afnemers.",
     edDraftURI: "https://gitlab.com/logius/oidc/-/blob/master/NLGov-OpenIDConnect-profile.md",
     otherLinks: [{
         key: "Participate",
