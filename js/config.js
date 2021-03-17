@@ -38,7 +38,7 @@ var respecConfig = {
     // A YYYY-MM-DD date. When there is a previous release of a given specification, (W3C)
     previousPublishDate: "2020-09-01",
 
-    publishVersion:"2.5",
+    publishVersion:"2.6",
     previousPublishVersion:"2.0",
   
     // Zie https://github.com/w3c/respec/wiki/previousMaturity. Dit moet een
